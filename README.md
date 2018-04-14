@@ -2,6 +2,10 @@
 
 This is a simple Hugo theme using [Bootstrap v4](https://getbootstrap.com/), inspired by [hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog).
 
+## Demo
+
+You can find a demo [here](https://themes.gohugo.io/theme/hugo-bootstrap/).
+
 ## Screenshots
 
 ![preview](https://raw.githubusercontent.com/Xzya/hugo-bootstrap/master/images/screenshot.png)
