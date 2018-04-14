@@ -1,10 +1,10 @@
 name = "Hugo Bootstrap"
 license = "MIT"
-licenselink = "https://github.com/Xzya/hugo-bootstrap/LICENSE.md"
-description = "A hugo theme using bootstrap"
+licenselink = "https://github.com/Xzya/hugo-bootstrap/blob/master/LICENSE.md"
+description = "A simple hugo theme using bootstrap"
 homepage = "https://github.com/Xzya/hugo-bootstrap"
-tags = ["Blog", "Multilingual", "Bootstrap"]
-features = ["Blog", "Responsive", "Google Analytics", "Bootstrap", "Multilingual", "i18n"]
+tags = ["blog", "multilingual", "bootstrap"]
+features = ["blog", "responsive", "Google Analytics", "bootstrap", "multilingual", "i18n"]
 min_version = 0.15
 
 [author]

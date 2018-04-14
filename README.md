@@ -4,8 +4,8 @@ This is a simple Hugo theme using [Bootstrap v4](https://getbootstrap.com/), ins
 
 ## Screenshots
 
-![preview](./images/screenshot1.png)
-![preview](./images/screenshot2.png)
+![preview](https://raw.githubusercontent.com/Xzya/hugo-bootstrap/master/images/screenshot.png)
+![preview](https://raw.githubusercontent.com/Xzya/hugo-bootstrap/master/images/screenshot2.png)
 
 ## Configuration
 

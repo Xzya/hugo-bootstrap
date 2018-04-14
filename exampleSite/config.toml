@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "https://example.com/"
 title = "Bootstrap demo"
 languageCode = "en-us"
 
 # Pagination
-paginate = 2
+paginate = 3
 paginatePath = "page"
 
 # Theme to use
