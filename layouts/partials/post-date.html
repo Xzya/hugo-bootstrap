@@ -6,6 +6,6 @@
         {{ .Date.Format $dateFormat }}
     {{ end }}
     {{ if $author }}
-        {{ i18n "by" }} {{ $author }}
+        {{ i18n "by" }} <span rel="author">{{ $author }}</span>
     {{ end }}
 </div>
