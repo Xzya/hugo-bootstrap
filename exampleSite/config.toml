@@ -74,10 +74,10 @@ defaultContentLanguage = "en"
   # truncate = false
 
   [params.sidebar]
-    # Weather to show the recent posts or not (default: true)
+    # Whether to show the recent posts or not (default: true)
     # showRecent = false
 
-    # Weather to show the taxonomies or not (default: true)
+    # Whether to show the taxonomies or not (default: true)
     # showTaxonomy = false
 
     # How many posts to show on the sidebar (Default: 5)
