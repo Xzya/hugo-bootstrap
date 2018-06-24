@@ -55,6 +55,22 @@ defaultContentLanguage = "en"
     name = "Contacto"
     weight = 3
 
+[languages.de]
+  languageName = "Deutsch"
+
+  [[languages.de.menu.main]]
+    url = "/de/"
+    name = "Start"
+    weight = 1
+  [[languages.de.menu.main]]
+    url = "/about/"
+    name = "Über uns"
+    weight = 2
+  [[languages.de.menu.main]]
+    url = "/contact/"
+    name = "Kontakt"
+    weight = 3
+
 # Links format
 
 [permalinks]
