@@ -1,6 +1,7 @@
 baseurl = "https://example.com/"
 title = "Bootstrap demo"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 
 # Pagination
 paginate = 3
@@ -15,10 +16,6 @@ theme = "hugo-bootstrap"
 
 # Google analytics
 googleAnalytics = "UA-47268287-3"
-
-# Languages
-
-defaultContentLanguage = "en"
 
 [languages.en]
   languageName = "English"
