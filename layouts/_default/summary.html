@@ -8,6 +8,9 @@
         {{ partial "post-categories" . }}
     </header>
     {{ .Summary }}
+    {{ if .Truncated }}
     <p></p>
     <a href="{{ .RelPermalink }}">{{ i18n "readMore" }}</a>
+    {{ end }}
 </article>
+
