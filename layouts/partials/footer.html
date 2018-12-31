@@ -4,9 +4,10 @@
 {{ $thanks := i18n "thanks" $links | safeHTML }}
 
 {{ $copyright := default $thanks .Site.Copyright }}
+{{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
 
 <footer class="blog-footer w-100">
-    <nav class="navbar navbar-light bg-light">
+    <nav class="navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
         <p class="w-100 text-center">{{ $copyright }}</p>
         <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
     </nav>
