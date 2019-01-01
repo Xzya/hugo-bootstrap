@@ -95,3 +95,11 @@ googleAnalytics = "UA-47268287-3"
 
     # How many posts to show on the sidebar (Default: 5)
     # num_recent_posts = 5
+
+  [params.header]
+    # Color scheme for the header (default: "light")
+    # colorScheme = "dark"
+
+  [params.footer]
+    # Color scheme for the footer (default: "light")
+    # colorScheme = "dark"
