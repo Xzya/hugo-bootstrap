@@ -1,0 +1,29 @@
+- id: by
+  translation: "door"
+
+- id: tags
+  translation: "Labels"
+
+- id: categories
+  translation: "Categorïeen"
+
+- id: readMore
+  translation: "Lees meer →"
+
+- id: translations
+  translation: "Vertalingen"
+
+- id: related
+  translation: "Zie ook"
+
+- id: recentPosts
+  translation: "Recente artikelen"
+
+- id: backToTop
+  translation: "Terug naar boven"
+
+- id: language
+  translation: "Taal"
+
+- id: thanks
+  translation: "Hugo sjabloon gemaakt met ❤ door {{.Xzya}}, geïnspireerd door {{.HugoThemeBootstrap4Blog}}"
