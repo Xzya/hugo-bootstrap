@@ -1,0 +1,29 @@
+- id: by
+  translation: "door"
+
+- id: tags
+  translation: "Labels"
+
+- id: categories
+  translation: "Categorïeen"
+
+- id: readMore
+  translation: "Lees Meer →"
+
+- id: translations
+  translation: "Vertalingen"
+
+- id: related
+  translation: "Zie ook"
+
+- id: recentPosts
+  translation: "Recente Artikelen"
+
+- id: backToTop
+  translation: "Terug naar het begin"
+
+- id: language
+  translation: "Taal"
+
+- id: thanks
+  translation: "Hugo template gemaakt met ❤ door {{.Xzya}}, geïnspireerd door {{.HugoThemeBootstrap4Blog}}"
