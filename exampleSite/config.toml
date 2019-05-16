@@ -14,6 +14,9 @@ theme = "hugo-bootstrap"
   tag = "tags"
   category = "categories"
 
+# disqus
+# disqusShortname = "xxxxxx"
+
 # Google analytics
 # googleAnalytics = ""
 
@@ -79,6 +82,9 @@ theme = "hugo-bootstrap"
 
   # Default author
   author = "John Doe"
+
+  # Enable katex globally, or add "katex: true" for specific post
+  katex = true
 
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
