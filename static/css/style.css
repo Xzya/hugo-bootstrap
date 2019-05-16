@@ -1,33 +1,67 @@
-.blog-header, .blog-post, .blog-pagination {
-  margin-bottom: 2rem;
+.blog-header,
+.blog-post,
+.blog-pagination {
+    margin-bottom: 2rem;
 }
 
+
 /* Make sure the image size is reasonable. */
+
 .blog-post img {
-  max-width: 100%;
+    max-width: 100%;
 }
 
 blockquote {
-	color: #999;
-	border-left: .5rem solid #d7dbe0;
-	background-color: #f8f9fa;
-	margin: .5rem 0;
-	padding-left: 1rem;
-	padding-top: 1rem;
-  padding-bottom: 0.5rem;
+    color: #999;
+    border-left: .5rem solid #d7dbe0;
+    background-color: #f8f9fa;
+    margin: .5rem 0;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
 }
 
 blockquote p {
-	margin-top: 0;
-	padding-left: 1rem;
-	font-style: italic;
+    margin-top: 0;
+    padding-left: 1rem;
+    font-style: italic;
 }
 
 blockquote:before {
-  color: #ccc;
-  content: '\201C';
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
+    color: #ccc;
+    content: '\201C';
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+article table:not([style]) {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #dee2e6
+}
+
+article table:not([style]) td,
+article table:not([style]) th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6
+}
+
+article table:not([style]) thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6
+}
+
+article table:not([style]) tbody+tbody {
+    border-top: 2px solid #dee2e6
+}
+
+article table:not([style]) {
+    background-color: #fff
 }
