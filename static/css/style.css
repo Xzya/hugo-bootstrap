@@ -6,3 +6,28 @@
 .blog-post img {
   max-width: 100%;
 }
+
+blockquote {
+	color: #999;
+	border-left: .5rem solid #d7dbe0;
+	background-color: #f8f9fa;
+	margin: .5rem 0;
+	padding-left: 1rem;
+	padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+blockquote p {
+	margin-top: 0;
+	padding-left: 1rem;
+	font-style: italic;
+}
+
+blockquote:before {
+  color: #ccc;
+  content: '\201C';
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
