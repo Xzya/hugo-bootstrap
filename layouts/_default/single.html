@@ -24,5 +24,7 @@
     {{ partial "related" . }}
 
 </article>
-
+{{ if and (not .Params.nocomment) .Site.DisqusShortname }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}
 {{ end }}
