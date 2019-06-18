@@ -1,0 +1,29 @@
+- id: by
+  translation: "由"
+
+- id: tags
+  translation: "标签"
+
+- id: categories
+  translation: "分类"
+
+- id: readMore
+  translation: "更多内容 →"
+
+- id: translations
+  translation: "其他语言"
+
+- id: related
+  translation: "相关文章"
+
+- id: recentPosts
+  translation: "近期文章"
+
+- id: backToTop
+  translation: "回到顶部"
+
+- id: language
+  translation: "其他语言"
+
+- id: thanks
+  translation: "本 Hugo 模板受 {{.HugoThemeBootstrap4Blog}} 启发，由 {{.Xzya}} 制作 ❤"
